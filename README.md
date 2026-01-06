@@ -1,1 +1,1 @@
-happytails-board
+board
